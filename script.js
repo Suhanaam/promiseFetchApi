@@ -1,5 +1,6 @@
 //creation of promises
 
+
 const promise=new Promise((resolve,reject)=>{
     setTimeout(()=>{
         let success=true;
